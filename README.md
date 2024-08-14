@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit Singh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning French
+- 👀 I’m interested in Drones
+- 🌱 I’m currently learning Pyhton and MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my phone number- 9667758828
 
